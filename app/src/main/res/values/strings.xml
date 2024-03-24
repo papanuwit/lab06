@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab6-firebase</string>
+    <string name="title_activity_new_task">NewTaskActivity</string>
+</resources>
